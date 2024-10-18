@@ -1,2 +1,4 @@
 # Dissertation
-This repo includes my university assignments regarding the Dissertation.
+This reposetory includes the IoT device codes and ML codes related to my dissertation project.
+For running ML codes, use Anaconda Navigators. 
+
